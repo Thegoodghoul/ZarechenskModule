@@ -1,4 +1,4 @@
-# RobloxBoost
+# ZarechenskModule
 ZarechenskModule - модуль для игры в роблокс.
 
 Будьте осторожны!
